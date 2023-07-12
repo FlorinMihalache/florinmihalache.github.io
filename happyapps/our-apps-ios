@@ -1,0 +1,111 @@
+{
+    "imagesRootUrl":"http://hantshypno.co.uk/api/icons/",
+    "latestApp":"https://itunes.apple.com/gb/app/12-weeks-to-wow-challenge/id1402211576?ls=1&mt=8",
+    "apps":[
+		{
+            "icon":"12wowchallenge.png",
+            "url":"https://itunes.apple.com/gb/app/12-weeks-to-wow-challenge/id1402211576?ls=1&mt=8",
+            "title":"12 Weeks to Wow Challenge"
+        },
+		{
+            "icon":"12wow2.png",
+            "url":"https://itunes.apple.com/gb/app/12-weeks-to-wow-weight-loss/id1421843088?ls=1&mt=8",
+            "title":"12 Weeks To WOW - Fast Weight Loss Programme!"
+        },
+		{
+            "icon":"12wow.png",
+            "url":"https://itunes.apple.com/gb/app/12-weeks-to-wow-weight-loss/id1190413254?ls=1&mt=8",
+            "title":"12 Weeks To WOW - Fast Weight Loss Programme!"
+        },
+        {
+            "icon":"yly.png",
+            "url":"https://itunes.apple.com/gb/app/a-younger-looking-you-10-weeks-to-a-younger-you/id1236522233?mt=8",
+            "title":"Lose Weight - Look Younger!"
+        },
+        {
+            "icon":"sbe.png",
+            "url":"https://itunes.apple.com/gb/app/stop-binge-eating-make-healthier-food-choices/id1212649566?mt=8",
+            "title":"Stop Binge Eating Hypnosis!"
+        },
+        {
+            "icon":"vgb.png",
+            "url":"https://itunes.apple.com/gb/app/virtual-gastric-band-hypnosis-lose-weight-fast/id504835984?mt=8",
+            "title":"Virtual Gastric Band Hypnosis"
+        },
+        {
+            "icon":"sec.png",
+            "url":"https://itunes.apple.com/gb/app/self-esteem-self-confidence-self-belief-hypnosis/id1187769683?mt=8",
+            "title":"Self Esteem and Confidence"
+        },
+        {
+            "icon":"bikinibody.png",
+            "url":"https://itunes.apple.com/gb/app/bikini-body-weight-loss-hypnosis-flab-to-fab-in-14-weeks/id888071330?mt=8",
+            "title":"Bikini Body Weight Loss"
+        },
+        {
+            "icon":"chillpill.png",
+            "url":"https://itunes.apple.com/gb/app/chill-pill-hypnosis-weight-loss-relaxation-mindfulness/id918930867?mt=8",
+            "title":"Chill Pill Hypnosis Session"
+        },
+        {
+            "icon":"easybirth.png",
+            "url":"https://itunes.apple.com/gb/app/easybirth-hypnosis-relax-your-way-through-pregnancy/id984936277?mt=8",
+            "title":"Easy Birth Hypnosis"
+        },
+        {
+            "icon":"easysleep.png",
+            "url":"https://itunes.apple.com/gb/app/easysleep-hypnosis-insomnia-mindfulness-relaxation/id953858719?mt=8",
+            "title":"Easy Sleep Hypnosis"
+        },
+        {
+            "icon":"vgbformen.png",
+            "url":"https://itunes.apple.com/gb/app/virtual-gastric-band-surgery-lose-weight-fast-for-men/id961451095?mt=8",
+            "title":"EasyLoss VGB - for MEN"
+        },
+        {
+            "icon":"lawofattraction.png",
+            "url":"https://itunes.apple.com/gb/app/law-of-attraction-mindful-meditations/id781455062?mt=8",
+            "title":"Law of Attraction Meditations"
+        },
+        {
+            "icon":"littleblackdress.png",
+            "url":"https://itunes.apple.com/gb/app/easyloss-little-black-dress-weight-loss-system/id1014084794?mt=8",
+            "title":"Little Black Dress Weight Loss"
+        },
+        {
+            "icon":"plr.png",
+            "url":"https://itunes.apple.com/gb/app/past-life-regression/id492021312?mt=8",
+            "title":"Past Life Regression Hypnosis"
+        },
+        {
+            "icon":"stopnailbiting.png",
+            "url":"https://itunes.apple.com/gb/app/stop-nail-biting-hypnosis/id474867877?mt=8",
+            "title":"Stop Nail Biting Hypnosis"
+        },
+        {
+            "icon":"stopsmoking.png",
+            "url":"https://itunes.apple.com/gb/app/stop-smoking-in-two-weeks-with-hypnosis/id849825147?mt=8",
+            "title":"Stop Smoking With James Holmes"
+        },
+        {
+            "icon":"sugarstopchallenge.png",
+            "url":"https://itunes.apple.com/gb/app/sugarstop-challenge-21-days-to-better-health-happiness/id936948399?mt=8",
+            "title":"Sugar Stop Challenge"
+        },
+        {
+            "icon":"weddingweightloss.png",
+            "url":"https://itunes.apple.com/gb/app/wedding-weight-loss-hypnosis-lose-weight-fast-for-your/id917188304?mt=8",
+            "title":"Wedding Weight Loss Hypnosis"
+        },
+        {
+            "icon":"youcandoit.png",
+            "url":"https://itunes.apple.com/gb/app/you-can-do-it-motivational-inspirational-posts/id1055424239?mt=8",
+            "title":"You Can Do It!"
+        },
+        {
+            "icon":"pmc.png",
+            "url":"https://itunes.apple.com/gb/app/your-positive-mindfulness-coach-live-positively/id1065122750?mt=8",
+            "title":"Positive Mindfulness Coach"
+        }
+    ]
+}
